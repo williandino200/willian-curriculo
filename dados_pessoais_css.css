@@ -1,0 +1,19 @@
+body{background-image: url(fundo.jpg);
+    background-position: center;
+    background-size: 100%;}
+h1{text-align: center;
+    color: #ad0202;
+    font-size: 500%;
+    font-family:Georgia, 'Times New Roman', Times, serif;}
+b{font-size: 150%;
+    color: #d2a52a;
+    position: relative;
+    top: 50px;}
+.voltar{font-size: 200%;
+    color: #d2a52a;
+    position: relative;
+    top: 600;
+    right: 17%;}
+.imagem_ron{left: 70%;
+    top: 200;
+    position: absolute;}
